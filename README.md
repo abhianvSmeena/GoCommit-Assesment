@@ -59,7 +59,6 @@ PROJECT STRUCTURE
 │ └── docs/ # Knowledge base documents (PDF/MD/TXT)
 ├── data/
 │ └── chroma_db/ # Persistent Chroma database
-├── requirements_add.txt # Extra dependencies (Whisper, TTS, TF-IDF)
 └── requirements.txt     # Core dependencies
 ```
 
