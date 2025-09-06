@@ -1,4 +1,4 @@
-# 📖 Documentation  
+# Documentation  
 
 ## 🔹 Assumptions  
 - The system is designed to run **fully offline** using local models (Whisper, Gemma via Ollama, SentenceTransformers).  
