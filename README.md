@@ -61,4 +61,29 @@ PROJECT STRUCTURE
 │ └── chroma_db/ # Persistent Chroma database
 └── requirements.txt     # Core dependencies
 ```
+QUICK START
 
+1. Clone the repo
+```
+https://github.com/abhianvSmeena/GoCommit-Assesment.git
+```
+
+2. Install Dependencies
+```
+pip install -r requirements.txt
+```
+
+3. Create a virtual env file:
+```
+python -m venv venv
+```
+
+4. Ingest Data File:
+```
+python build_kb.py
+```
+
+5. Start the LLM:
+```
+python app.py
+```
