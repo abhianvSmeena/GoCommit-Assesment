@@ -1,0 +1,13 @@
+FAQ — Voice Health Assistant Demo
+
+Q: What should I do if I feel dizzy after taking my medication?
+A: Stop and sit/lie down to avoid falls. If dizziness is mild and improves, contact your prescriber. If severe or accompanied by fainting, chest pain, or difficulty breathing, go to the emergency department.
+
+Q: My report says 'stage 2 CKD.' What does that mean?
+A: CKD stages are based on eGFR. Stage 2 indicates mild decrease in kidney function (eGFR 60-89 mL/min/1.73m^2). Discuss implications with your nephrologist or primary care physician.
+
+Q: Can I stop steroids suddenly?
+A: No — do not abruptly stop systemic steroids after prolonged use; speak to your prescriber about a taper.
+
+Q: Where do these answers come from?
+A: This demo uses a small curated knowledge base (clinical guidelines and medication handbook) for contextual answers and is not a replacement for professional medical advice.
