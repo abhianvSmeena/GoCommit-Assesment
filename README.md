@@ -62,6 +62,8 @@ PROJECT STRUCTURE
 │ └── docs/ # Knowledge base documents (PDF/MD/TXT)
 ├── data/
 │ └── chroma_db/ # Persistent Chroma database
+├── README.md
+├── Documentation.md # Documentation Covering
 └── requirements.txt     # Core dependencies
 ```
 QUICK START
