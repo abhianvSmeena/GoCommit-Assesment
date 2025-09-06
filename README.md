@@ -47,16 +47,17 @@ Pipeline at a glance:
 
 ---
 
-## Project Structure  
-├── app.py # Main entrypoint: mic/file/text input modes
-├── AIVoiceAssistant.py # RAG pipeline, retrieval, LLM, sentiment analysis
-├── voice_service.py # TTS engine (pyttsx3 / gTTS fallback)
-├── config.py # Centralized project configuration
-├── build_kb.py # Document ingestion + KB building
-├── rag/
-│ └── docs/ # Knowledge base documents (PDF/MD/TXT)
-├── data/
-│ └── chroma_db/ # Persistent Chroma database
-├── requirements.txt # Core dependencies
-├── requirements_add.txt # Extra dependencies (Whisper, TTS, TF-IDF)
-└── README.md # This file
+## Project Structure
+ ├── app.py # Main entrypoint: mic/file/text input modes
+ ├── AIVoiceAssistant.py # RAG pipeline, retrieval, LLM, sentiment analysis
+ ├── voice_service.py # TTS engine (pyttsx3 / gTTS fallback)
+ ├── config.py # Centralized project configuration
+ ├── build_kb.py # Document ingestion + KB building
+ ├── rag/
+ │ └── docs/ # Knowledge base documents (PDF/MD/TXT)
+ ├── data/
+ │ └── chroma_db/ # Persistent Chroma database
+ ├── requirements.txt # Core dependencies
+ ├── requirements_add.txt # Extra dependencies (Whisper, TTS, TF-IDF)
+ └── README.md # This file
+
