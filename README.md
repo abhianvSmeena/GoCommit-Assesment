@@ -7,7 +7,10 @@ Built with **local models** (Whisper, SentenceTransformers, Gemma via Ollama), i
 
 Pipeline at a glance:  
 
-🎤 **Voice Input** → 📝 **Transcription (Whisper)** → 📚 **Hybrid Retrieval (Chroma + TF-IDF)** → 🧠 **Context Injection + Sentiment Analysis** → 🤖 **LLM Response (Gemma via Ollama)** → 🔊 **Voice Output (TTS)**  
+🎤 **Voice Input** → 📝 **Transcription (Whisper)** → 📚 **Hybrid Retrieval (Chroma + TF-IDF)** → 🧠 **Context Injection + Sentiment Analysis** → 🤖 **LLM Response (Gemma via Ollama)** → 🔊 **Voice Output (TTS)** 
+
+Demonstration Video:
+https://drive.google.com/file/d/189NOed7-5-UJ5pgJvXWUwqGVCz-AV1tL/view?usp=sharing
 
 ---
 
